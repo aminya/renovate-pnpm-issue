@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "renovate": "^26"
+  "dependencies": {
+    "execa": "5.0.0"
   }
 }
